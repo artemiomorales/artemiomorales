@@ -14,7 +14,7 @@ Senior Software Engineer at Automattic, September 2022 – April 2025, working o
 
 - Designed and shipped the **Block Bindings API**, a developer-facing extensibility layer that third-party plugin authors build against
 - Built the **image lightbox** in WordPress core
-- Led a release of the **Gutenberg plugin** end to end, coordinating contributors through to publication
+- Led a release of the **Gutenberg plugin**, coordinating contributors through to publication
 - Built platform features for the WordPress.com Creators division
 
 ## What I build
