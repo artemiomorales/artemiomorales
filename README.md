@@ -38,4 +38,4 @@ Twelve years across product engineering and client work — Automattic, VSA Part
 
 ## Elsewhere
 
-[artemiomorales.com](https://artemiomorales.com) · [LinkedIn](https://linkedin.com/in/XXXXXX) · English, Italian, Spanish
+[artemiomorales.com](https://artemiomorales.com) · [LinkedIn](https://linkedin.com/in/artemiomorales) · English, Italian, Spanish
