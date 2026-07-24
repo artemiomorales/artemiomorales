@@ -12,7 +12,7 @@ Senior Software Engineer at Automattic, September 2022 – April 2025, working o
 
 **[42 merged pull requests to WordPress/gutenberg →](https://github.com/WordPress/gutenberg/pulls?q=is%3Apr+author%3Aartemiomorales+is%3Amerged)**
 
-- Designed and shipped the **Block Bindings API**, a developer-facing extensibility layer that third-party plugin authors build against
+- Designed and shipped the **Block Bindings API**, a developer-facing extensibility layer for binding blocks to arbitrary data sources
 - Built the **image lightbox** in WordPress core
 - Led a release of the **Gutenberg plugin**, coordinating contributors through to publication
 - Built platform features for the WordPress.com Creators division
