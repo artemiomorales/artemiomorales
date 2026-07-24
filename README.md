@@ -25,12 +25,13 @@ Senior Software Engineer at Automattic, September 2022 – April 2025, working o
 
 **Maestro** — The first iterations of Scroll Cinema when it was still a plugin for Unity and Cocos Creator · [`maestro-cocos`](https://github.com/artemiomorales/maestro-cocos) (TypeScript) · [`maestro-unity`](https://github.com/artemiomorales/maestro-unity) (C#)
 
+On the AI tooling side, I use Claude Code with spec-driven prompts for code planning and review.
+
 ## Stack
 
 **Languages** JavaScript · TypeScript · Python · PHP · C# · SQL
 **Frontend** React · Next.js · Redux · PixiJS · Sass · Webpack
 **Backend & infra** Node.js · Django · REST · GraphQL · MySQL · AWS · Heroku · GitHub Actions
-**Tooling** Claude Code, with spec-driven prompting for implementation planning and review
 
 ## Background
 
