@@ -19,7 +19,7 @@ Senior Software Engineer at Automattic, September 2022 – April 2025, working o
 
 ## What I build
 
-**Scroll Cinema** — A real-time rendering engine in React, TypeScript, and PixiJS for authoring scroll-driven interactive animation. Architecture, implementation, and deployment, solo.
+**Scroll Cinema** — A real-time rendering engine in React, TypeScript, and PixiJS for authoring scroll-driven interactive animation. Architecture, implementation, and deployment, solo. [Selected code example](https://github.com/artemiomorales/scrollcinema-showcase). Output live demos: [When I Fall Asleep](https://www.altsalt.com/scrollie/when-i-fall-asleep/3589/view/) [A Modern Ghost](https://www.altsalt.com/) [OnChain Mecha](https://www.altsalt.com/scrollie/onchain-mecha/1000/view/)
 
 **AltSalt** — A community site for independent creators, originally built in a headless Next.js and Django setup, later migrated to WordPress · [frontend](https://github.com/artemiomorales/altsalt-frontend) [backend](https://github.com/artemiomorales/altsalt-backend)
 
