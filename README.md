@@ -40,7 +40,7 @@ On the AI tooling side, I use Claude Code with spec-driven prompts for code plan
 
 ## Background
 
-Twelve years across product engineering and client work — Automattic, VSA Partners (IBM), and Pixafy — plus my own studio since 2018. Journalism degree from Penn State with a focus in visual communication, which is where the interactive work started: my thesis was a full-length interactive ebook.
+Twelve years across product engineering and client work — Automattic, VSA Partners (IBM), and Pixafy — plus my own studio since 2018. Journalism degree from Penn State with a focus in visual communication, which is where the interactive work started: my thesis was a full-length multimedia ebook.
 
 ## Elsewhere
 
