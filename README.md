@@ -21,7 +21,7 @@ Senior Software Engineer at Automattic, September 2022 – April 2025, working o
 
 **Scroll Cinema** — An engine in React, TypeScript, and PixiJS for authoring interactive, scroll-driven interactive animation.
 - [Code excerpt](https://github.com/artemiomorales/scrollcinema-showcase)
-- [Live output demos](https://artemiomorales.github.io/scrollcinema-showcase/)
+- [Live output demo](https://artemiomorales.github.io/scrollcinema-showcase/)
 
 **AltSalt** — A community site for independent creators, originally built in a headless Next.js and Django setup, later migrated to WordPress · [frontend](https://github.com/artemiomorales/altsalt-frontend) [backend](https://github.com/artemiomorales/altsalt-backend)
 
