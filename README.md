@@ -2,7 +2,7 @@
 
 Senior full stack developer — React, TypeScript, Next.js. I build interactive, animation-rich web experiences and the systems that run them. Based in Florence, Italy.
 
-[ra.morales244@gmail.com](mailto:ra.morales244@gmail.com)
+[artemio@artemiomorales.com](mailto:artemio@artemiomorales.com)
 
 ---
 
