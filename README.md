@@ -1,6 +1,6 @@
 # Artemio Morales
 
-Senior full stack developer — React, TypeScript, Next.js. I build interactive, animation-rich web experiences and the systems that run them. Based in Florence, Italy.
+Senior frontend engineer — React, TypeScript, Next.js. I build tools and platforms other people use to make things. Based in Florence, Italy.
 
 [artemio@artemiomorales.com](mailto:artemio@artemiomorales.com)
 
